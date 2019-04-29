@@ -14,6 +14,16 @@
 |Java8|2年|spring||
 |Python 2,3|2年|||
 |javascript|5年|React.js,Vue.js||
+|Node.js|2年|||
+|Go lang|3ヶ月|||
+|Mysql|||
+|Aurora|||
+|PostgreSQL|||
+|DynamoDB|||
+|Redis||||
+|KyotoTycoon||||
+|TokyoTyrant||||
+
 
 
 
