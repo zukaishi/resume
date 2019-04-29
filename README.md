@@ -7,6 +7,19 @@
 |名前  |ishizuka  |
 |qiita  |https://qiita.com/ishizuka215  |
 
+# エンジニアスキル
+|ソフトウェア等|年数|Framework|備考|
+|---|---|---|
+|PHP 5,7|15年|Zend,Laravel|執筆、イベントスタッフ|
+|Java8|2年|spring||
+|Python 2,3|2年|||
+|javascript|5年|React.js,Vue.js||
+
+
+
+
+
+
 # ソフトウェア開発
 ### Webアプリケーション 決済システム 
 - PHP5 or 7 10年
@@ -53,14 +66,6 @@
 
 # 著作
 ### 『初めてのPHP5プログラミング エキスパート編』2006年5月　秀和システム社
-
-# エンジニアスキル
-## PHP
-## Java
-## Python
-## Javascript
-- React.js
-- Vue.js
 
 # 実務経歴
 
