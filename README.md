@@ -18,11 +18,10 @@
 |Go lang|3ヶ月|||
 |Mysql|10年||
 |Aurora|2年||
-|PostgreSQL|||
-|DynamoDB|||
-|Redis||||
-|KyotoTycoon||||
-|TokyoTyrant||||
+|DynamoDB|1年||
+|Redis|2年|||
+|KyotoTycoon|5年|||
+|TokyoTyrant|5年|||
 
 # ソフトウェア開発
 ### Webアプリケーション 決済システム 
