@@ -1,5 +1,5 @@
 # 職務経歴書
-2019-04-29 現在
+最終更新　2019-08-14
 
 # 基本情報
 |key|value|
@@ -16,8 +16,8 @@
 |javascript|5年|React.js,Vue.js||
 |Node.js|2年|||
 |Go lang|3ヶ月|||
-|Mysql|||
-|Aurora|||
+|Mysql|10年||
+|Aurora|2年||
 |PostgreSQL|||
 |DynamoDB|||
 |Redis||||
@@ -41,21 +41,21 @@
 - PHP5 2年
 - ECcomerse
 
-### Webアプリケーション プラットフォーム
-- PHP 10年
-- Javascript
-
-### 社内向け管理画面
+### 社内向け管理画面　フロント開発
 - React.js
 - Vue.js 1 or 2
+- webpack
 
 ### フィーチャーフォン向けiアプリゲーム
 - Java
 
-### ログデータのカスタマイズ
-- AWS S3
-- AWS lambda
+### 広告ログデータのクレンジング
+- AWS S3, lambda
 - python3
+
+### Webアプリケーション プラットフォーム
+- PHP 10年
+- Javascript
 
 # インフラ業務
 ### タイトルの公式サイトサーバ構築
