@@ -1,5 +1,5 @@
 # 職務経歴書
-最終更新　2019-08-14
+最終更新　2020-04-22
 
 # 基本情報
 |key|value|
@@ -15,6 +15,8 @@
 |Python 2,3|2年|||
 |javascript|5年|React.js,Vue.js||
 |Node.js|2年|||
+|vue.js|1年|||
+|typescript|プライベートのみ|||
 |Go lang|3ヶ月|||
 |Mysql|10年||
 |Aurora|2年||
