@@ -1,11 +1,11 @@
 # 職務経歴書
-最終更新　2020-04-22
+最終更新　2020-05-09
 
 # 基本情報
 |key|value|
 |---|---|
 |名前  |ishizuka  |
-|qiita  |https://qiita.com/ishizuka215  |
+|qiita  |https://qiita.com/zukaishi |
 
 # エンジニアスキル
 |ソフトウェア等|年数|Framework|備考|
@@ -67,7 +67,9 @@
 - 10名
 
 # プロジェクトマネジメント
-- ふりかえり
+- agile develop
+- KTP
+- YWT
 - Roll & Responsibility
 
 # 採用
@@ -75,11 +77,13 @@
 - 5名
 
 # 業務外活動
+### teratail
+- https://teratail.com/users/zukaishi
 ### PHPカンファレンス
 - 2017年 受付
 　http://phpcon.php.gr.jp/2017/
 - 2018年 会場進行（Track 5 1F会議室A + B）
 　http://phpcon.php.gr.jp/2018/
-- 執筆
+### 執筆
 　『初めてのPHP5プログラミング エキスパート編』2006年5月　秀和システム社
  
