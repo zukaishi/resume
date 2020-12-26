@@ -1,5 +1,5 @@
 # 職務経歴書
-最終更新　2020-05-09
+最終更新　2020-12-27
 
 # 基本情報
 |key|value|
@@ -66,11 +66,14 @@
 # 組織マネジメント
 - 10名
 
-# プロジェクトマネジメント
-- agile develop
-- KTP
-- YWT
-- Roll & Responsibility
+# プロジェクトマネジメントスキル
+|プロジェクト|年数|備考|
+|---|---|---|
+|大手IPゲーム　インフラマネジメント|2年|agile develop、KPT|
+|OA配信基盤 |5ヶ月|agile develop、KPT、YWT|
+|広告配信管理システム |9ヶ月|ウォーターホール -> agile develop、KPT|
+|社内IT可視化 |9ヶ月|agile develop、KPT、KPTA、Good & News|
+|社内ITサービスData Hub,API Gatewayシステム|9ヶ月|agile develop、KPT、Roll & Responsibility|
 
 # 採用
 ### サーバエンジニア、インフラエンジニアの採用
@@ -79,11 +82,13 @@
 # 業務外活動
 ### teratail
 - https://teratail.com/users/zukaishi
+
 ### PHPカンファレンス
 - 2017年 受付
 　http://phpcon.php.gr.jp/2017/
 - 2018年 会場進行（Track 5 1F会議室A + B）
 　http://phpcon.php.gr.jp/2018/
+
 ### 執筆
 　『初めてのPHP5プログラミング エキスパート編』2006年5月　秀和システム社
  
