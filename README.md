@@ -4,8 +4,9 @@
 # 基本情報
 |key|value|
 |---|---|
-|名前  |ishizuka  |
-|qiita  |https://qiita.com/zukaishi |
+|名前|ishizuka  |
+|qiita|https://qiita.com/zukaishi |
+|twitter|https://twitter.com/camsiPhone215|
 
 # エンジニアスキル
 |ソフトウェア等|年数|Framework|備考|
