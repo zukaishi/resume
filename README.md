@@ -79,8 +79,8 @@
 
 # 業務外活動
 ### teratail
-- qiita|https://qiita.com/zukaishi
-- twitter|https://twitter.com/camsiPhone215
+- https://qiita.com/zukaishi
+- https://twitter.com/camsiPhone215
 - https://teratail.com/users/zukaishi
 
 ### PHPカンファレンス
