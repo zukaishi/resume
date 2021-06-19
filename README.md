@@ -77,11 +77,15 @@
 |社内IT可視化 |9ヶ月|agile develop、KPT、KPTA、Good & News|
 |社内ITサービスData Hub,API Gatewayシステム|9ヶ月|agile develop、KPT、Roll & Responsibility|
 
-### 業務外活動
-- https://qiita.com/zukaishi
-- https://twitter.com/camsiPhone215
-- https://teratail.com/users/zukaishi
-- ポケモンしりとり　https://s3-ap-northeast-1.amazonaws.com/website.shiritori.com/index.html
+## 業務外活動
+
+### SNS
+- qiita https://qiita.com/zukaishi
+- twiiter https://twitter.com/camsiPhone215
+- teratail https://teratail.com/users/zukaishi
+
+### 開発物
+- ポケモンしりとり　　https://github.com/zukaishi/aws_shiritori
 
 ### PHPカンファレンス
 - 2017年 受付
