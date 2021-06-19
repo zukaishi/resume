@@ -75,9 +75,6 @@
 - Ansibleを用いた公式サイト　サーバ構築
 　- AWS EC2, Redis, S3, VPC
 
-# 組織マネジメント
-- 10名
-
 # プロジェクトマネジメントスキル
 |プロジェクト|年数|備考|
 |---|---|---|
@@ -86,10 +83,6 @@
 |広告配信管理システム |9ヶ月|ウォーターホール -> agile develop、KPT|
 |社内IT可視化 |9ヶ月|agile develop、KPT、KPTA、Good & News|
 |社内ITサービスData Hub,API Gatewayシステム|9ヶ月|agile develop、KPT、Roll & Responsibility|
-
-# 採用
-### サーバエンジニア、インフラエンジニアの採用
-- 5名
 
 # 業務外活動
 ### teratail
