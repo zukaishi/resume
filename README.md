@@ -85,6 +85,7 @@
 - teratail https://teratail.com/users/zukaishi
 
 ### 開発物
+- ポケモン図鑑ルビ　https://github.com/zukaishi/pokemon_zukan_ruby
 - ポケモンしりとり　　https://github.com/zukaishi/aws_shiritori
 
 ### PHPカンファレンス
