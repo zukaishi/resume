@@ -1,13 +1,6 @@
 # 職務経歴書
 最終更新　2021-6-19
 
-# 基本情報
-|key|value|
-|---|---|
-|名前|ishizuka  |
-|qiita|https://qiita.com/zukaishi |
-|twitter|https://twitter.com/camsiPhone215|
-
 # 取得資格
 |取得年月|資格  |
 |---|---|
@@ -86,6 +79,8 @@
 
 # 業務外活動
 ### teratail
+- qiita|https://qiita.com/zukaishi
+- twitter|https://twitter.com/camsiPhone215
 - https://teratail.com/users/zukaishi
 
 ### PHPカンファレンス
