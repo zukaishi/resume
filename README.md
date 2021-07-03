@@ -1,11 +1,11 @@
 # 職務経歴書
-- 最終更新　2021-6-20
+- 最終更新　2021-07-04
 
 # 取得資格
 |取得年月|資格  |
 |---|---|
 |2021年6月|　認定スクラムマスターCSM|
-|2020年5月|　ファイナンシャルプランナー3級|
+|2021年5月|　ファイナンシャルプランナー3級|
 |2019年5月|　AWSクラウドプラクティショナー|
 |2017年4月|　ITパスポート|
 |2011年8月|　普通自動二輪|
@@ -81,13 +81,18 @@
 ## 業務外活動
 
 ### SNS
-- qiita https://qiita.com/zukaishi
-- twiiter https://twitter.com/camsiPhone215
-- teratail https://teratail.com/users/zukaishi
+- qiita 
+-   https://qiita.com/zukaishi
+- twiiter 
+-   https://twitter.com/camsiPhone215
+- teratail 
+-   https://teratail.com/users/zukaishi
 
 ### 開発物
-- ポケモン図鑑ルビ　https://github.com/zukaishi/pokemon_zukan_ruby
-- ポケモンしりとり　　https://github.com/zukaishi/aws_shiritori
+- ポケモン図鑑ルビ　
+-   https://github.com/zukaishi/pokemon_zukan_ruby
+- ポケモンしりとり　　
+-   https://github.com/zukaishi/aws_shiritori
 
 ### PHPカンファレンス
 - 2017年 受付
