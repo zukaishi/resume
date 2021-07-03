@@ -72,11 +72,12 @@
 # プロジェクトマネジメントスキル
 |プロジェクト|年数|備考|
 |---|---|---|
-|大手IPゲーム　インフラマネジメント|2年|agile develop、KPT|
-|OA配信基盤 |5ヶ月|agile develop、KPT、YWT|
-|広告配信管理システム |9ヶ月|ウォーターホール -> agile develop、KPT|
-|社内IT可視化 |9ヶ月|agile develop、KPT、KPTA、Good & News|
+|Outsystems社内IT改善プロジェクト|1ヶ月|-|
 |社内ITサービスData Hub,API Gatewayシステム|9ヶ月|agile develop、KPT、Roll & Responsibility|
+|社内IT可視化 |9ヶ月|agile develop、KPT、KPTA、Good & News|
+|広告配信管理システム |9ヶ月|ウォーターホール -> agile develop、KPT|
+|OA配信基盤 |5ヶ月|agile develop、KPT、YWT|
+|大手IPゲーム　インフラマネジメント|2年|agile develop、KPT|
 
 ## 業務外活動
 
