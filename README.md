@@ -73,6 +73,7 @@
 |プロジェクト|年数|備考|
 |---|---|---|
 |Outsystems社内IT改善プロジェクト|1ヶ月|-|
+|ログ基盤統一プロジェクト|1年|AWS|
 |社内ITサービスData Hub,API Gatewayシステム|9ヶ月|agile develop、KPT、Roll & Responsibility|
 |社内IT可視化 |9ヶ月|agile develop、KPT、KPTA、Good & News|
 |広告配信管理システム |9ヶ月|ウォーターホール -> agile develop、KPT|
