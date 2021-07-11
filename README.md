@@ -1,5 +1,5 @@
 # 職務経歴書
-- 最終更新　2021-07-04
+- 最終更新　2021-07-12
 
 # 取得資格
 |取得年月|資格  |
@@ -14,22 +14,22 @@
 |2002年1月|　計算技術検定２級|
 
 # エンジニアスキル
-|ソフトウェア等|年数|Framework|備考|
+|ソフトウェア等|年数|星取表||Framework|備考|
 |---|---|---|---|
-|PHP 5,7|15年|Zend,Laravel|執筆、イベントスタッフ|
-|Java8|2年|spring||
-|Python 2,3|2年|||
-|javascript|5年|React.js,Vue.js||
-|Node.js|2年|||
-|vue.js|1年|||
-|typescript|プライベートのみ|||
-|Go lang|3ヶ月|||
-|Mysql|10年||
-|Aurora|2年||
-|DynamoDB|1年||
-|Redis|2年|||
-|KyotoTycoon|5年|||
-|TokyoTyrant|5年|||
+|PHP 5,7|15年|○|Zend,Laravel|執筆、イベントスタッフ|
+|Java8|2年|○|spring||
+|Python 2,3|2年|○|||
+|javascript|5年|○|React.js,Vue.js||
+|Node.js|2年|△|||
+|vue.js|1年|○|||
+|typescript|プライベートのみ|△|||
+|Go lang|3ヶ月|△|||
+|Mysql|10年|◎||
+|Aurora|2年|△||
+|DynamoDB|1年|○||
+|Redis|2年|○|||
+|KyotoTycoon|5年|○|||
+|TokyoTyrant|5年|○|||
 
 # ソフトウェア開発
 ### Webアプリケーション 決済システム 
