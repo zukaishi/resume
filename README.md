@@ -16,7 +16,7 @@
 # エンジニアスキル
 |ソフトウェア等|年数|星取表|Framework|備考|
 |---|---|---|---|---|
-|PHP 5,7|15年|○|Zend,Laravel|執筆、イベントスタッフ|
+|PHP 5,7|10年|○|Zend,Laravel|執筆、イベントスタッフ|
 |Java8|2年|○|spring||
 |Python 2,3|2年|○|||
 |javascript|5年|○|React.js,Vue.js||
