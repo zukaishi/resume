@@ -1,5 +1,5 @@
 # 職務経歴書
-- 最終更新　2021-07-16
+- 最終更新　2021-07-30
 
 # 取得資格
 |取得年月|資格  |
@@ -73,8 +73,8 @@
 # プロジェクトマネジメントスキル
 |プロジェクト|年数|備考|
 |---|---|---|
-|Outsystems社内IT改善プロジェクト|1ヶ月|-|
-|ログ基盤統一プロジェクト|1年|AWS|
+|Outsystems社内IT改善プロジェクト|1ヶ月|Outsystems|
+|ログ基盤統一プロジェクト|1年|AWS kafka|
 |社内ITサービスData Hub,API Gatewayシステム|9ヶ月|agile develop、KPT、Roll & Responsibility|
 |社内IT可視化 |9ヶ月|agile develop、KPT、KPTA、Good & News|
 |広告配信管理システム |9ヶ月|ウォーターホール -> agile develop、KPT|
