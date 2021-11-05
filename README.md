@@ -2,7 +2,7 @@
 - 最終更新　2021-11-05
 
 # 現在
-緑色のアプリアイコンL社でPM、組織マネジャー
+- AWS Ops Manager Premium Support
 
 # 取得資格
 |取得年月|資格  |
@@ -90,7 +90,7 @@
 - qiita 
 -   https://qiita.com/zukaishi
 - twiiter 
--   https://twitter.com/camsiPhone215
+-   https://twitter.com/ishizkah
 - teratail 
 -   https://teratail.com/users/zukaishi
 
