@@ -33,6 +33,7 @@
 |Redis|2年|○|||
 |KyotoTycoon|5年|○|||
 |TokyoTyrant|5年|○|||
+|なでしこ|3ヶ月|△|||
 |typescript|プライベートのみ|△|||
 |rust|プライベートのみ|△|||
 
