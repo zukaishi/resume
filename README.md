@@ -1,5 +1,5 @@
 # 職務経歴書
-- 最終更新　2021-11-08
+- 最終更新　2021-11-14
 
 # 現在
 - AWS Ops Manager Premium Support
