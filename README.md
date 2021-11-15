@@ -73,7 +73,7 @@
 # インフラ業務
 ### タイトルの公式サイトサーバ構築
 - Ansibleを用いた公式サイト　サーバ構築
-- AWS EC2, Redis, S3, VPC
+  - AWS EC2, Redis, S3, VPC, Route53
 
 # プロジェクトマネジメントスキル
 |プロジェクト|年数|備考|
@@ -90,11 +90,11 @@
 
 ### SNS
 - qiita 
--   https://qiita.com/zukaishi
+  - https://qiita.com/zukaishi
 - twiiter 
--   https://twitter.com/ishizkah
+  - https://twitter.com/ishizkah
 - teratail 
--   https://teratail.com/users/zukaishi
+  - https://teratail.com/users/zukaishi
 
 ### 開発物
 - ポケモン図鑑ルビ　
