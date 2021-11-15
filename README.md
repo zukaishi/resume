@@ -1,5 +1,5 @@
 # 職務経歴書
-- 最終更新　2021-11-14
+- 最終更新　2021-11-16
 
 # 現在
 - AWS Ops Manager Premium Support
@@ -98,15 +98,16 @@
 
 ### 開発物
 - ポケモン図鑑ルビ　
--   https://github.com/zukaishi/pokemon_zukan_ruby
+  - https://github.com/zukaishi/pokemon_zukan_ruby
 - ポケモンしりとり　　
--   https://github.com/zukaishi/aws_shiritori
+  - https://github.com/zukaishi/aws_shiritori
 
 ### PHPカンファレンス
-- 2017年 受付
-　http://phpcon.php.gr.jp/2017/
-- 2018年 会場進行（Track 5 1F会議室A + B）
-　http://phpcon.php.gr.jp/2018/
+- 2017年 
+  - 受付 http://phpcon.php.gr.jp/2017/
+- 2018年
+  - 会場進行（Track 5 1F会議室A + B） http://phpcon.php.gr.jp/2018/
 
 ### 執筆
-- 『初めてのPHP5プログラミング エキスパート編』2006年5月　秀和システム社
+-  2006年
+  - 『初めてのPHP5プログラミング エキスパート編』　秀和システム社
