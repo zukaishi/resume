@@ -1,5 +1,5 @@
 # 職務経歴書
-- 最終更新　2022-01-29
+- 最終更新　2022-02-11
 
 # 現在
 - AWS Premium Support Ops Manager Networking Profile
